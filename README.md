@@ -1,3 +1,5 @@
+# what is ML?
+
 ![image](https://github.com/user-attachments/assets/7256c78c-a4e8-483c-84c6-b5a296b1378b)
 
 <br>
@@ -7,3 +9,9 @@ Machine Learning, on the other hand, gives us the technology that allows us to a
 <br>
 
 ![image](https://github.com/user-attachments/assets/d686727a-4345-4eef-a1f3-a40e56b7f4cd)
+
+
+## what is Supervised learning?
+
+![image](https://github.com/user-attachments/assets/7cd1c15f-4420-4f46-ab01-4d463ea1a201)
+
