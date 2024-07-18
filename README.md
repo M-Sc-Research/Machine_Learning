@@ -29,4 +29,4 @@ Machine Learning, on the other hand, gives us the technology that allows us to a
 
 <br>
 
-first talk about what it means to convert the problem into a representation that a computer can deal with. This involves two things. You need to convert each input object, which we often call a sample, into a set of features that describe the object. Second, we need to pick a learning model, typically the type of classifier that you want the system to learn. 
+first, talk about what it means to convert the problem into a representation that a computer can deal with. This involves two things. You need to convert each input object, which we often call a sample, into a set of features that describe the object. Second, we need to pick a learning model, typically the type of classifier that we want the system to learn. 
