@@ -1,4 +1,4 @@
-# what is ML?
+# What is ML?
 
 ![image](https://github.com/user-attachments/assets/7256c78c-a4e8-483c-84c6-b5a296b1378b)
 
@@ -17,6 +17,9 @@ Machine Learning, on the other hand, gives us the technology that allows us to a
 
 <br>
 
-## What is unSupervised learning?
+## What is unsupervised learning?
 
 ![image](https://github.com/user-attachments/assets/abf1f40c-e16b-49bd-b3c1-640beaf20e1d)
+
+
+> There can be many different types of hacking or intrusion attempts to break into the server or exploit it in some way. We don't have reliable training labels that we could use to train the classifier using supervised learning. Instead, we need an unsupervised approach that allows us to perform something called outlier detection. That doesn't assume future attacks will be of the same form as previous attacks.
