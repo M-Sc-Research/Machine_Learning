@@ -11,7 +11,12 @@ Machine Learning, on the other hand, gives us the technology that allows us to a
 ![image](https://github.com/user-attachments/assets/d686727a-4345-4eef-a1f3-a40e56b7f4cd)
 
 
-## what is Supervised learning?
+## What is Supervised learning?
 
 ![image](https://github.com/user-attachments/assets/7cd1c15f-4420-4f46-ab01-4d463ea1a201)
 
+<br>
+
+## What is unSupervised learning?
+
+![image](https://github.com/user-attachments/assets/abf1f40c-e16b-49bd-b3c1-640beaf20e1d)
