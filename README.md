@@ -23,3 +23,6 @@ Machine Learning, on the other hand, gives us the technology that allows us to a
 
 
 > There can be many different types of hacking or intrusion attempts to break into the server or exploit it in some way. We don't have reliable training labels that we could use to train the classifier using supervised learning. Instead, we need an unsupervised approach that allows us to perform something called outlier detection. That doesn't assume future attacks will be of the same form as previous attacks.
+
+
+![image](https://github.com/user-attachments/assets/423085b5-9a7b-463f-bb75-607b4ba3e8e3)
